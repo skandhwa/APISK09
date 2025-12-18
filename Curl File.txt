@@ -1,0 +1,18 @@
+curl -i -H "Accept:application/json" -H "Content-Type:application/json" -H "Authorization: Bearer a682a89b74963538f47d3ec72b6af8f655ef7c20f8d1a7e3ad8582ffd8dfdf64" -XPOST "https://gorest.co.in/public/v2/users" -d '{"name":"Tenali Ramakrishna", "gender":"male", "email":"tenali.ramakrishna@15ce.com", "status":"active"}'
+
+
+POST
+------------------
+
+https://gorest.co.in/public/v2/users
+
+x-api-key :reqres_73341f65a30249bd9da6fb7fca0105a8
+
+{
+    "name": "morpheus",
+    "job": "leader"
+}
+
+
+
+
