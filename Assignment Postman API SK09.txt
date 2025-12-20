@@ -1,0 +1,64 @@
+1. For List Users 
+
+Pass the Bearer Token from Env Variable
+Pass "https://gorest.co.in" from Global Variable
+Pass "public/v2/users" from Env Variables
+
+
+Validations
+----------------------
+Validate the Response code 
+
+Validate Header as Content Type
+ 
+2. For Create User 
+
+Pass the Bearer Token from Env Variable
+Pass "https://gorest.co.in" from Global Variable
+Pass "public/v2/users" from Env Variables
+Send name and email from pre request script (write a pre request to generate a random name and email everytime)
+Pass gender and status from csv file (Two rows in CSV , one with status active and one with inactive,gender one with mail and one female)
+
+Validations
+----------------------
+Validate the Response code 
+
+Validate Header as Content Type
+Validate the name and email which u are sending from pre request script 
+Validate the ID generated should always be an integer
+Validate the ID generated should not be null.
+
+
+3. For Update User 
+
+Pass the Bearer Token from Env Variable
+Pass "https://gorest.co.in" from Global Variable
+Pass "public/v2/users" from Env Variables
+Send email from Pre req script
+Pass name and status from JSON file 
+
+Validations
+----------------------
+Validate the Response code 
+Validate response time less than 3000 ms
+Validate the Response header 
+Validate Header as Content Type
+Validate the  email which u are sending from pre request script 
+Validate the ID generated should always be an integer
+Validate the ID generated should not be null.
+
+
+After That 
+
+1. Use Postman Monitor to execute an entire collection 
+2. Set Up Newman in ur machine and try generating Newman Report 
+
+Share this newman report in the whats app group and make sure all of them are being passed 
+
+
+
+
+
+
+
+
