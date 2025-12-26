@@ -1,0 +1,67 @@
+ARRAY – 10 Important Questions
+
+Write a Java program to find the largest and smallest element in an array.
+
+Find the second largest element in an array.
+
+Reverse an array without using another array.
+
+Remove duplicate elements from an array.
+
+Find missing number in an array of 1 to N.
+
+Sort an array without using Arrays.sort().
+
+Find all duplicate elements in an array.
+
+Rotate an array left or right by K positions.
+
+Find pair of elements whose sum equals a given number.
+
+Move all zeros to the end of an array.
+
+
+STRING – 10 Important Questions
+
+Reverse a String without using reverse() method.
+
+Check whether a String is palindrome.
+
+Find duplicate characters in a String.
+
+Find first non-repeated character in a String.
+
+Count occurrence of each character in a String.
+
+Check whether two Strings are anagrams.
+
+Remove duplicate characters from a String.
+
+Count vowels and consonants in a String.
+
+Reverse each word in a sentence.
+
+Find longest word in a given sentence.
+
+
+COLLECTIONS – 10 Important Questions
+
+Remove duplicate elements from ArrayList.
+
+Sort an ArrayList of Strings.
+
+Sort a HashMap by keys.
+
+Sort a HashMap by values.
+
+Find frequency of elements in a List.
+
+Difference between ArrayList and LinkedList (with example).
+
+Difference between HashMap and Hashtable.
+
+How to make a Collection thread-safe?
+
+Iterate a Map using all possible ways.
+
+Find highest occurring element in a List.
